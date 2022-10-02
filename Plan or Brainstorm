@@ -1,0 +1,5 @@
+--> Correlation between duration of pit stops and time to win race/reach the end line (min. of time in races or results table is the winner - what's the difference between both tables?) ordered by year perhaps and joining the race and pit stops table using the race_id 
+
+--> Count of number of constructors based on nationality and compare this to the total budget spent (using information from other sources) before the year that the budget was fixed to 140 million dollars (and to therefore find how spending was linked to winning a race or what position the driver ends up in). 
+
+--> Find how many racers were disqualified/other accidents like overheating, etc. by doing COUNT(status_id) in the status table where status = 2 or the other values. 
